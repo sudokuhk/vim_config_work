@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/sudoku/work/YYMobileSDK_PC/YYMobileSdk/CallManager'
+let g:netrw_dirhist_2='/Users/sudoku/work/YYMobileSDK_PC'
+let g:netrw_dirhist_3='/Users/sudoku'
+let g:netrw_dirhist_4='/data01/nmzc/zhaoff'
+let g:netrw_dirhist_5='/data01/nmzc/huangkun3/learn/sample_zff'
+let g:netrw_dirhist_6='/data01/nmzc/huangkun3/learn/server'
+let g:netrw_dirhist_7='/data01/nmzc/huangkun3/sdltest/billcopy'
+let g:netrw_dirhist_8='/data01/nmzc/huangkun3/work/openbilling60_cmcc/balance_billing/balance/public/luapolicy/test'
